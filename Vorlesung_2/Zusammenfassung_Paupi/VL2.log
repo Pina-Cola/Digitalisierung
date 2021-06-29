@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.1)  29 JUN 2021 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.1)  29 JUN 2021 12:51
 entering extended mode
-**./VL1.tex
-(VL1.tex
+**./VL2.tex
+(VL2.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-27>
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -92,8 +92,8 @@ tex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count192
 \l__pdf_internal_box=\box47
-) (VL1.aux)
-\openout1 = `VL1.aux'.
+) (VL2.aux)
+\openout1 = `VL2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -170,22 +170,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Overfull \hbox (7.57172pt too wide) in paragraph at lines 14--14
-[]\OT1/cmr/bx/n/17.28 Informationssysteme als Gestal-tungs-ge-gen-stand der
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+
+Overfull \hbox (9.7816pt too wide) in paragraph at lines 48--49
+[]\OT1/cmr/m/n/12 Besitzt (im Gegen-satz zu einem nor-malen Mod-ell) nor-ma-tiv
+en Charak-ter (Gestal-
  []
 
 
-Overfull \hbox (2.25528pt too wide) in paragraph at lines 27--29
-\OT1/cmr/m/n/12 Die Neuor-gan-i-sa-tion von Geschaftsmodellen und In-dus-trien
- durch dig-i-tale Tech-
+Overfull \hbox (0.44717pt too wide) in paragraph at lines 65--68
+\OT1/cmr/m/n/12 Ausgangspunkt fur Um-set-zung von Be-trieb-swirtschaft in In-f
+or-ma-tion-stech-
  []
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -197,12 +199,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{C:/Users/Paupi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 ]
-<ZentraleBegriffe-Normen-Abgrenzungen.jpg, id=9, 542.025pt x 442.65375pt>
-File: ZentraleBegriffe-Normen-Abgrenzungen.jpg Graphic file (type jpg)
-<use ZentraleBegriffe-Normen-Abgrenzungen.jpg>
-Package pdftex.def Info: ZentraleBegriffe-Normen-Abgrenzungen.jpg  used on inpu
-t line 88.
-(pdftex.def)             Requested size: 325.2175pt x 265.59428pt.
+<digi2.jpg, id=9, 523.45563pt x 271.0125pt>
+File: digi2.jpg Graphic file (type jpg)
+<use digi2.jpg>
+Package pdftex.def Info: digi2.jpg  used on input line 90.
+(pdftex.def)             Requested size: 478.00769pt x 247.49016pt.
+
+Overfull \hbox (22.76358pt too wide) in paragraph at lines 90--91
+ [] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -212,13 +217,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2 <./ZentraleBegriffe-Normen-Abgrenzungen.jpg>]
-<Teilsysteme-in-Unternehmen.png, id=13, 767.11594pt x 496.10344pt>
-File: Teilsysteme-in-Unternehmen.png Graphic file (type png)
-<use Teilsysteme-in-Unternehmen.png>
-Package pdftex.def Info: Teilsysteme-in-Unternehmen.png  used on input line 94.
+[2 <./digi2.jpg>]
+<alphaAlgorithmusGrundidee.png, id=14, 827.34094pt x 414.04688pt>
+File: alphaAlgorithmusGrundidee.png Graphic file (type png)
+<use alphaAlgorithmusGrundidee.png>
+Package pdftex.def Info: alphaAlgorithmusGrundidee.png  used on input line 114.
 
-(pdftex.def)             Requested size: 421.91507pt x 272.85773pt.
+(pdftex.def)             Requested size: 409.71692pt x 205.04544pt.
+
+Overfull \hbox (9.69719pt too wide) in paragraph at lines 113--115
+[] 
+ []
+
+<alphaAlgFinalesModell.png, id=16, 844.65562pt x 375.65344pt>
+File: alphaAlgFinalesModell.png Graphic file (type png)
+<use alphaAlgFinalesModell.png>
+Package pdftex.def Info: alphaAlgFinalesModell.png  used on input line 116.
+(pdftex.def)             Requested size: 409.71692pt x 182.22035pt.
+
+Overfull \hbox (9.69719pt too wide) in paragraph at lines 115--117
+[] 
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -228,25 +247,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./Teilsysteme-in-Unternehmen.png>] (VL1.aux) ) 
+[3 <./alphaAlgorithmusGrundidee.png> <./alphaAlgFinalesModell.png>] (VL2.aux) )
+ 
 Here is how much of TeX's memory you used:
- 1941 strings out of 479081
- 30002 string characters out of 2852598
- 334092 words of memory out of 3000000
- 19656 multiletter control sequences out of 15000+600000
+ 1949 strings out of 479081
+ 29992 string characters out of 2852598
+ 335092 words of memory out of 3000000
+ 19663 multiletter control sequences out of 15000+600000
  408368 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,66p,371b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Paupi\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Paupi/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Paup
-i/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
-ers/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmti12.pfb>
-Output written on VL1.pdf (3 pages, 192159 bytes).
+ 57i,11n,66p,182b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Paupi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm12
+00.pk><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Paupi/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on VL2.pdf (3 pages, 283766 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
