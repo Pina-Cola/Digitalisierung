@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.26)  28 JUN 2021 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.26)  29 JUN 2021 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -292,20 +292,20 @@ LaTeX Warning: Unused global option(s):
 (./Digitalisierung_VL03.aux)
 \openout1 = `Digitalisierung_VL03.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
@@ -384,17 +384,17 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (10.64523pt too wide) in paragraph at lines 39--40
+Overfull \hbox (10.64523pt too wide) in paragraph at lines 42--43
 []\OT1/cmr/bx/n/10.95 Funktionsintegration: \OT1/cmr/m/n/10.95 meh-re-re Funk-t
 io-nen wer-den in ei-nem In-for-ma-ti-ons-sys-tem geb[]undelt 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 55.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 55.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -403,65 +403,75 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <digi_pic.png, id=1, 1119.18124pt x 624.3325pt>
 File: digi_pic.png Graphic file (type png)
 <use digi_pic.png>
-Package pdftex.def Info: digi_pic.png  used on input line 58.
+Package pdftex.def Info: digi_pic.png  used on input line 61.
 (pdftex.def)             Requested size: 335.75696pt x 187.3012pt.
 <GoldeneRegeln.png, id=2, 1076.02pt x 590.205pt>
 File: GoldeneRegeln.png Graphic file (type png)
 <use GoldeneRegeln.png>
-Package pdftex.def Info: GoldeneRegeln.png  used on input line 60.
+Package pdftex.def Info: GoldeneRegeln.png  used on input line 63.
 (pdftex.def)             Requested size: 322.8085pt x 177.06287pt.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./digi_pic.png> <./Goldene
-Regeln.png>]
-<MakeOrBuy.png, id=13, 1063.975pt x 645.41125pt>
+Overfull \vbox (10.2pt too high) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./digi_pic.png> <./GoldeneRegeln.png>]
+<MakeOrBuy.png, id=14, 1063.975pt x 645.41125pt>
 File: MakeOrBuy.png Graphic file (type png)
 <use MakeOrBuy.png>
-Package pdftex.def Info: MakeOrBuy.png  used on input line 71.
+Package pdftex.def Info: MakeOrBuy.png  used on input line 74.
 (pdftex.def)             Requested size: 319.19496pt x 193.62486pt.
-<Nutzen.png, id=14, 1163.34625pt x 596.2275pt>
+<Nutzen.png, id=15, 1163.34625pt x 596.2275pt>
 File: Nutzen.png Graphic file (type png)
 <use Nutzen.png>
-Package pdftex.def Info: Nutzen.png  used on input line 73.
+Package pdftex.def Info: Nutzen.png  used on input line 76.
 (pdftex.def)             Requested size: 349.00658pt x 178.86963pt.
-<spiralmodell.png, id=15, 1098.1025pt x 569.12625pt>
+<spiralmodell.png, id=16, 1098.1025pt x 569.12625pt>
 File: spiralmodell.png Graphic file (type png)
 <use spiralmodell.png>
-Package pdftex.def Info: spiralmodell.png  used on input line 98.
+Package pdftex.def Info: spiralmodell.png  used on input line 101.
 (pdftex.def)             Requested size: 329.43329pt x 170.73918pt.
 
-[2 <./MakeOrBuy.png> <./Nutzen.png>]
-Overfull \hbox (36.56717pt too wide) in paragraph at lines 119--120
+Overfull \vbox (10.2pt too high) has occurred while \output is active []
+
+ [2 <./MakeOrBuy.png> <./Nutzen.png>]
+Overfull \hbox (36.56717pt too wide) in paragraph at lines 122--123
 []\OT1/cmr/m/n/10.95 Ziel: in sich ver[]anderden Um-ge-bun-gen mit schlan-ken u
 nd fle-xiblen Software-Entwicklungsprozessen
  []
 
-<DevOps.png, id=19, 1178.4025pt x 663.47874pt>
+<DevOps.png, id=20, 1178.4025pt x 663.47874pt>
 File: DevOps.png Graphic file (type png)
 <use DevOps.png>
-Package pdftex.def Info: DevOps.png  used on input line 122.
+Package pdftex.def Info: DevOps.png  used on input line 125.
 (pdftex.def)             Requested size: 353.52348pt x 199.04515pt.
-[3 <./spiralmodell.png> <./DevOps.png>]
-<magic.png, id=23, 1134.2375pt x 505.89pt>
+
+Overfull \vbox (10.2pt too high) has occurred while \output is active []
+
+ [3 <./spiralmodell.png> <./DevOps.png>]
+<magic.png, id=24, 1134.2375pt x 505.89pt>
 File: magic.png Graphic file (type png)
 <use magic.png>
-Package pdftex.def Info: magic.png  used on input line 136.
+Package pdftex.def Info: magic.png  used on input line 139.
 (pdftex.def)             Requested size: 340.27388pt x 151.76816pt.
-<foss.png, id=24, 1140.26pt x 509.905pt>
+<foss.png, id=25, 1140.26pt x 509.905pt>
 File: foss.png Graphic file (type png)
 <use foss.png>
-Package pdftex.def Info: foss.png  used on input line 138.
+Package pdftex.def Info: foss.png  used on input line 141.
 (pdftex.def)             Requested size: 342.08064pt x 152.97267pt.
-<out.png, id=25, 1092.08pt x 633.36626pt>
+<out.png, id=26, 1092.08pt x 633.36626pt>
 File: out.png Graphic file (type png)
 <use out.png>
-Package pdftex.def Info: out.png  used on input line 154.
+Package pdftex.def Info: out.png  used on input line 157.
 (pdftex.def)             Requested size: 327.62653pt x 190.01134pt.
+
+Overfull \vbox (10.2pt too high) has occurred while \output is active []
+
  [4 <./magic.png> <./foss.png> <./out.png>] (./Digitalisierung_VL03.aux) ) 
 Here is how much of TeX's memory you used:
  6881 strings out of 483016
  118900 string characters out of 5961286
- 479930 words of memory out of 5000000
+ 479958 words of memory out of 5000000
  21855 multiletter control sequences out of 15000+600000
  538881 words of font info for 48 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
@@ -470,12 +480,13 @@ Here is how much of TeX's memory you used:
 me/pina/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1095.600pk></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Digitalisierung_VL03.pdf (4 pages, 748316 bytes).
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Digitalisierung_VL03.pdf (4 pages, 757138 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
