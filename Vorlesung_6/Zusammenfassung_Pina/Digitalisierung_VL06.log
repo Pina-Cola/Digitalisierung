@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.26)  6 JUL 2021 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.1.26)  6 JUL 2021 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,22 +502,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--113
  []
 
 
-Overfull \hbox (4.86665pt too wide) in paragraph at lines 107--117
+Overfull \hbox (4.86665pt too wide) in paragraph at lines 107--118
 [][] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 107--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
 <network.png, id=12, 200.75pt x 447.6725pt>
 File: network.png Graphic file (type png)
 <use network.png>
-Package pdftex.def Info: network.png  used on input line 134.
+Package pdftex.def Info: network.png  used on input line 135.
 (pdftex.def)             Requested size: 50.18736pt x 111.91785pt.
 
-Overfull \hbox (75.33557pt too wide) in paragraph at lines 129--136
+Overfull \hbox (75.33557pt too wide) in paragraph at lines 130--137
 [] [] 
  []
 
@@ -528,7 +538,7 @@ Overfull \vbox (10.2pt too high) has occurred while \output is active []
 <wfragen.png, id=19, 882.29625pt x 473.77pt>
 File: wfragen.png Graphic file (type png)
 <use wfragen.png>
-Package pdftex.def Info: wfragen.png  used on input line 147.
+Package pdftex.def Info: wfragen.png  used on input line 148.
 (pdftex.def)             Requested size: 397.02965pt x 213.19452pt.
 
 Overfull \vbox (10.2pt too high) has occurred while \output is active []
@@ -537,20 +547,20 @@ Overfull \vbox (10.2pt too high) has occurred while \output is active []
 <edg.png, id=23, 1059.96pt x 452.69125pt>
 File: edg.png Graphic file (type png)
 <use edg.png>
-Package pdftex.def Info: edg.png  used on input line 191.
+Package pdftex.def Info: edg.png  used on input line 192.
 (pdftex.def)             Requested size: 349.78787pt x 149.38857pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 190--192
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
 
  []
 
 <potdig.png, id=24, 1092.08pt x 544.0325pt>
 File: potdig.png Graphic file (type png)
 <use potdig.png>
-Package pdftex.def Info: potdig.png  used on input line 193.
+Package pdftex.def Info: potdig.png  used on input line 194.
 (pdftex.def)             Requested size: 327.62653pt x 163.211pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--195
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
 
  []
 
@@ -561,22 +571,22 @@ Overfull \vbox (10.2pt too high) has occurred while \output is active []
 <BMC.png, id=28, 1088.065pt x 510.90875pt>
 File: BMC.png Graphic file (type png)
 <use BMC.png>
-Package pdftex.def Info: BMC.png  used on input line 244.
+Package pdftex.def Info: BMC.png  used on input line 245.
 (pdftex.def)             Requested size: 435.21829pt x 204.35988pt.
 
-Overfull \hbox (7.34924pt too wide) in paragraph at lines 244--245
+Overfull \hbox (7.34924pt too wide) in paragraph at lines 245--246
 [][] 
  []
 
 <modelldings.png, id=29, 1116.17pt x 485.815pt>
 File: modelldings.png Graphic file (type png)
 <use modelldings.png>
-Package pdftex.def Info: modelldings.png  used on input line 249.
+Package pdftex.def Info: modelldings.png  used on input line 250.
 (pdftex.def)             Requested size: 446.4601pt x 194.32256pt.
 <beispiel_e3.png, id=30, 1013.7875pt x 194.7275pt>
 File: beispiel_e3.png Graphic file (type png)
 <use beispiel_e3.png>
-Package pdftex.def Info: beispiel_e3.png  used on input line 250.
+Package pdftex.def Info: beispiel_e3.png  used on input line 251.
 (pdftex.def)             Requested size: 405.50783pt x 77.8896pt.
 
 Overfull \vbox (10.2pt too high) has occurred while \output is active []
@@ -589,7 +599,7 @@ Overfull \vbox (10.2pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  8083 strings out of 483016
  138809 string characters out of 5961286
- 504057 words of memory out of 5000000
+ 505057 words of memory out of 5000000
  23011 multiletter control sequences out of 15000+600000
  541071 words of font info for 57 fonts, out of 8000000 for 9000
  81 hyphenation exceptions out of 8191
@@ -602,7 +612,7 @@ cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Digitalisierung_VL06.pdf (6 pages, 587591 bytes).
+Output written on Digitalisierung_VL06.pdf (6 pages, 587580 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
