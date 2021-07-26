@@ -1,0 +1,345 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.1)  2 JUL 2021 13:55
+entering extended mode
+**./VL4.tex
+(VL4.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-27>
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks18
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen149
+\lightrulewidth=\dimen150
+\cmidrulewidth=\dimen151
+\belowrulesep=\dimen152
+\belowbottomsep=\dimen153
+\aboverulesep=\dimen154
+\abovetopsep=\dimen155
+\cmidrulesep=\dimen156
+\cmidrulekern=\dimen157
+\defaultaddspace=\dimen158
+\@cmidla=\count192
+\@cmidlb=\count193
+\@aboverulesep=\dimen159
+\@belowrulesep=\dimen160
+\@thisruleclass=\count194
+\@lastruleclass=\count195
+\@thisrulewidth=\dimen161
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box47
+) (VL4.aux)
+\openout1 = `VL4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen162
+\scratchbox=\box48
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen163
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks20
+)
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<UIS.png, id=1, 586.44093pt x 246.9225pt>
+File: UIS.png Graphic file (type png)
+<use UIS.png>
+Package pdftex.def Info: UIS.png  used on input line 32.
+(pdftex.def)             Requested size: 263.89597pt x 111.11409pt.
+<Potenziale.png, id=2, 589.4522pt x 327.47343pt>
+File: Potenziale.png Graphic file (type png)
+<use Potenziale.png>
+Package pdftex.def Info: Potenziale.png  used on input line 35.
+(pdftex.def)             Requested size: 294.72537pt x 163.73631pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1{C:/Users/Paupi/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+ <./UIS.png> <./Potenziale.png>]
+<repeat.png, id=11, 1082.0425pt x 330.23375pt>
+File: repeat.png Graphic file (type png)
+<use repeat.png>
+Package pdftex.def Info: repeat.png  used on input line 55.
+(pdftex.def)             Requested size: 432.80933pt x 132.09114pt.
+
+Overfull \hbox (6.93991pt too wide) in paragraph at lines 55--56
+[][] 
+ []
+
+<CloudComputingKonzept.png, id=12, 606.76688pt x 398.99063pt>
+File: CloudComputingKonzept.png Graphic file (type png)
+<use CloudComputingKonzept.png>
+Package pdftex.def Info: CloudComputingKonzept.png  used on input line 56.
+(pdftex.def)             Requested size: 182.03146pt x 119.6981pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2 <./repeat.png> <./CloudComputingKonzept.png>]
+Overfull \hbox (16.1093pt too wide) in paragraph at lines 81--83
+\OT1/cmr/m/n/12 z.B. Kin-dle nutzt die Ama-zon Cloud zum Spe-ich-ern der Buche
+r wodurch abhangige
+ []
+
+<veraenderung.png, id=18, 766.36313pt x 356.83313pt>
+File: veraenderung.png Graphic file (type png)
+<use veraenderung.png>
+Package pdftex.def Info: veraenderung.png  used on input line 91.
+(pdftex.def)             Requested size: 306.53983pt x 142.73071pt.
+
+Overfull \hbox (1.64143pt too wide) in paragraph at lines 93--95
+\OT1/cmr/m/n/12 Geschaftsprozesse und or-gan-isatorischen Sys-teme zu in-te-gr
+i-eren und so einen Mehrw-
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 104.
+
+<prozess.png, id=19, 1153.30875pt x 390.45876pt>
+File: prozess.png Graphic file (type png)
+<use prozess.png>
+Package pdftex.def Info: prozess.png  used on input line 105.
+(pdftex.def)             Requested size: 380.59306pt x 128.85178pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./veraenderung.png> <./prozess.png>]
+Underfull \hbox (badness 6927) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/12 bestimmte Ar-beiten lassen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/12 sich dezen-tral-isieren und
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\OT1/cmr/m/n/12 flex-i-bler or-gan-isieren und
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 125--126
+[]\OT1/cmr/m/n/12 mehr Kon-trolle der Ar-beit-
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 134--135
+[]\OT1/cmr/m/n/12 auflosende Grenze zwis-chen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]\OT1/cmr/m/n/12 geringere Kon-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+\OT1/cmr/m/n/12 trollmoglichkeiten der Un-
+ []
+
+
+Underfull \hbox (badness 5970) in paragraph at lines 136--137
+\OT1/cmr/m/n/12 zw-erkverbindun-gen auf die
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4] (VL4.aux) ) 
+Here is how much of TeX's memory you used:
+ 2030 strings out of 479081
+ 31143 string characters out of 2852598
+ 334888 words of memory out of 3000000
+ 19739 multiletter control sequences out of 15000+600000
+ 408368 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,66p,342b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Paupi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1200.pk><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paupi/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Paupi/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on VL4.pdf (4 pages, 285118 bytes).
+PDF statistics:
+ 44 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
