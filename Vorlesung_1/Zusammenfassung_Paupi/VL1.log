@@ -1,37 +1,37 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.6.1)  29 JUN 2021 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.7.19)  1 AUG 2021 15:37
 entering extended mode
 **./VL1.tex
 (VL1.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-05-27>
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+File: size12.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count181
-\c@section=\count182
-\c@subsection=\count183
-\c@subsubsection=\count184
-\c@paragraph=\count185
-\c@subparagraph=\count186
-\c@figure=\count187
-\c@table=\count188
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
+\KV@toks@=\toks18
 )
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
@@ -39,9 +39,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count189
-\Gm@cntv=\count190
-\c@Gm@tempcnt=\count191
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -50,14 +50,14 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutheight=\dimen144
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
-\Gm@dimlist=\toks18
+\Gm@dimlist=\toks19
 
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -66,7 +66,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 107.
 
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
@@ -89,9 +89,9 @@ rs
 )
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
-File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count192
-\l__pdf_internal_box=\box47
+File: l3backend-pdftex.def 2021-07-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
 ) (VL1.aux)
 \openout1 = `VL1.aux'.
 
@@ -148,17 +148,17 @@ LaTeX Font Info:    ... okay on input line 13.
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
+\scratchcounter=\count194
 \scratchdimen=\dimen149
-\scratchbox=\box48
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count196
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count197
 \MPscratchDim=\dimen150
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks20
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks21
 )
 (C:\Users\Paupi\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -201,7 +201,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: ZentraleBegriffe-Normen-Abgrenzungen.jpg Graphic file (type jpg)
 <use ZentraleBegriffe-Normen-Abgrenzungen.jpg>
 Package pdftex.def Info: ZentraleBegriffe-Normen-Abgrenzungen.jpg  used on inpu
-t line 88.
+t line 89.
 (pdftex.def)             Requested size: 325.2175pt x 265.59428pt.
 
 
@@ -216,7 +216,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Teilsysteme-in-Unternehmen.png, id=13, 767.11594pt x 496.10344pt>
 File: Teilsysteme-in-Unternehmen.png Graphic file (type png)
 <use Teilsysteme-in-Unternehmen.png>
-Package pdftex.def Info: Teilsysteme-in-Unternehmen.png  used on input line 94.
+Package pdftex.def Info: Teilsysteme-in-Unternehmen.png  used on input line 95.
 
 (pdftex.def)             Requested size: 421.91507pt x 272.85773pt.
 
@@ -228,25 +228,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./Teilsysteme-in-Unternehmen.png>] (VL1.aux) ) 
+[3 <./Teilsysteme-in-Unternehmen.png>]
+Overfull \hbox (2.56226pt too wide) in paragraph at lines 120--121
+\OT1/cmr/m/n/12 liegt in der Un-ter-suchung von Einflussen von In-for-ma-tion-
+ssys-te-men im Un-ternehmen. 
+ []
+
+
+Overfull \hbox (1.40363pt too wide) in paragraph at lines 126--127
+[]\OT1/cmr/m/n/12 Ein Beispiel fur \OT1/cmr/m/it/12 Dig-i-tale Trans-for-ma-ti
+on \OT1/cmr/m/n/12 ist: Durch das Corona Virus finden Lehrver-
+ []
+
+
+Overfull \hbox (6.53583pt too wide) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/12 Durch In-for-ma-tion-ssys-teme wer-den die Auspragungen Masc
+hine-Mensch und Mensch-
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4] (VL1.aux) ) 
 Here is how much of TeX's memory you used:
- 1941 strings out of 479081
- 30002 string characters out of 2852598
- 334092 words of memory out of 3000000
- 19656 multiletter control sequences out of 15000+600000
+ 1955 strings out of 478870
+ 30287 string characters out of 2848836
+ 337572 words of memory out of 3000000
+ 19883 multiletter control sequences out of 15000+600000
  408368 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,66p,371b,263s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\Paupi\AppData\Loca
-l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Paupi/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Paup
-i/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Us
-ers/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmti12.pfb>
-Output written on VL1.pdf (3 pages, 192159 bytes).
+ 57i,12n,66p,371b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Paupi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1200.pk><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Users/Paupi/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paupi/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Paupi/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on VL1.pdf (4 pages, 205654 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
+ 44 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
